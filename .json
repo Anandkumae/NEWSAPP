@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Japan hopes sunlight can save stricken Slim Moon lander",
+      "description": "The Slim spacecraft was switched off after failing to generate power - but the Sun may now revive it.",
+      "url": "https://www.bbc.co.uk/news/science-environment-68055186",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B963/production/_132395474_d25fa28435a6c673f5ff11529dab4aca.jpg",
+      "publishedAt": "2024-01-22T16:07:18.2433603Z",
+      "content": "Japan may yet manage to salvage its Moon lander, the country's space agency Jaxa says - if sunlight hits it in the right place.\r\nThe Slim spacecraft was turned off just three hours after its historic… [+2778 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Elon Musk visits site of Auschwitz death camp",
+      "description": "The X owner's visit follows criticism of the platform for not doing enough to fight antisemitism.",
+      "url": "https://www.bbc.co.uk/news/technology-68055368",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14B67/production/_132393848_gettyimages-1944272736.jpg",
+      "publishedAt": "2024-01-22T16:07:11.727719Z",
+      "content": "Tech billionaire Elon Musk has visited the site of the Auschwitz death camp.\r\nThe visit comes after intense criticism of how X, formerly Twitter, tackles antisemitic posts and just weeks after Mr Mus… [+4246 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Watch: Hostage families storm Israeli parliament",
+      "description": "The group whose relatives are still in Gaza broke into a meeting inside Israel's parliament building.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68054982",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1363B/production/_132391497_p0h6ffcs.jpg",
+      "publishedAt": "2024-01-22T12:37:13.8069911Z",
+      "content": "A group of families of Israeli hostages still being held in Gaza have stormed a meeting at the Knesset, Israel's parliament.\r\nThey broke through security and interrupted a finance meeting - protestin… [+280 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Nikki Haley finally gets her solo showdown with Donald Trump in New Hampshire",
+      "description": "But her showdown with Mr Trump in New Hampshire on Tuesday may not turn out exactly as she hoped.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68052806",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C09D/production/_132390394_haley2_976getty.jpg",
+      "publishedAt": "2024-01-22T11:22:16.8201734Z",
+      "content": "With Ron DeSantis suspending his presidential campaign on Sunday, Nikki Haley gets the one-on-one match-up with Donald Trump for which she's been longing.\r\n\"At one point in this campaign, there were … [+4023 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US Navy Seals presumed dead after Houthi operation",
+      "description": "The commandos were part of a mission to seize Iranian-made missile parts bound for Yemen.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68053528",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DD85/production/_132390765_dhow.jpg",
+      "publishedAt": "2024-01-22T09:52:15.5518486Z",
+      "content": "Two US Navy Seals who went missing during an operation to seize Iranian-made weapons - bound for Houthis in Yemen - are now presumed dead, the US military says.\r\nThe incident took place on 11 January… [+2182 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Sarah Ferguson: Duchess of York diagnosed with skin cancer",
+      "description": "A spokesperson says a cancerous mole was found while the duchess was having reconstructive surgery.",
+      "url": "https://www.bbc.co.uk/news/uk-68047608",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1841/production/_132390260_doy-inde2-getty.jpg",
+      "publishedAt": "2024-01-22T08:22:17.1642061Z",
+      "content": "The Duchess of York has been diagnosed with malignant melanoma following the removal of a cancerous mole during treatment for breast cancer.\r\nSarah Ferguson had several moles removed and analysed whi… [+3997 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Boeing 737-900ER: Second model to be inspected after 737 Max 9 blowout",
+      "description": "The US regulator says the 737-900ER fleet uses the same door design as the grounded 737 Max 9s.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68052160",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F742/production/_132389236_annotation2024-01-06120032.png",
+      "publishedAt": "2024-01-22T05:52:14.6338705Z",
+      "content": "Checks are to be carried out on a second Boeing aircraft model following the blowout of an unused door on one of its planes earlier this month.\r\nThe US Federal Aviation Administration grounded more t… [+1682 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US election 2024: Where did it all go wrong for Ron DeSantis?",
+      "description": "His awkwardness with voters was an issue, but the biggest obstacle was the dominance of Donald Trump.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68049929",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10CA/production/_132389240_gettyimages-1946563677-1.jpg",
+      "publishedAt": "2024-01-22T04:22:14.9614058Z",
+      "content": "Ron DeSantis cut an image of confidence in the video that launched his campaign in May 2023: he walked across a flag-adorned stage to cheers and promised his supporters \"the Great American Comeback\".… [+6039 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ayodhya: India PM Modi to open Hindu temple on razed Babri mosque site",
+      "description": "Ayodhya is spruced up for the Ram temple launch, but opposition leaders and some Hindu seers are staying away.",
+      "url": "https://www.bbc.co.uk/news/world-asia-india-68003095",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0B96/production/_132366920_gettyimages-1885804785-594x594.jpg",
+      "publishedAt": "2024-01-22T00:22:12.737364Z",
+      "content": "India's PM Narendra Modi is due to inaugurate a grand temple to popular Hindu god Ram in the city of Ayodhya.\r\nIt replaces a 16th-Century mosque, razed by Hindu mobs in 1992. The demolition had spark… [+3713 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Nearly 90 dead after fierce winter storms strike US",
+      "description": "At least 25 weather-related deaths have been reported in Tennessee, with another 16 in Oregon.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68049923",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9B62/production/_132387793_gettyimages-1928394578.jpg",
+      "publishedAt": "2024-01-21T17:52:17.8619525Z",
+      "content": "Media caption, Watch: Freezing US weather causes striking ice formations\r\nNearly 90 weather-related deaths have been recorded across the US after the country was pummelled by ferocious winter storms … [+2431 chars]"
+    }
+  ]
+}
